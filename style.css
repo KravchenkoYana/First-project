@@ -1,0 +1,21 @@
+body{
+    background-color: darkblue;
+}
+
+.h1{
+    margin-top: 100px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    color: aqua ;
+}
+.body{
+    font-size: 24px;
+    margin: 150px;
+    color: blueviolet;
+}
+.img{
+justify-content: center;
+display: flex;
+
+}
